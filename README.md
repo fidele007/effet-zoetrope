@@ -39,6 +39,6 @@ void loop() {
 ##Résultat :
 Malgré mes efforts, je ne suis toujours pas arrivé à voir l'animation très bien. Par contre, on la voit mieux en vidéo.
 
-Lien vers la vidéo de démonstration : https://vimeo.com/168565228
+Lien vers la vidéo de démonstration : https://vimeo.com/168569178
 
 La vidéo est prise en 240ips.
