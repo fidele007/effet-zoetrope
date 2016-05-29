@@ -8,12 +8,7 @@ Pour le projet final de ANU (Art Numérique), j'ai tenté de simuler l'effet tro
 
 ##Instructions
 1. **Construire le modèle des images d'animation :** dans mon cas, j'ai trouvé un modèle de papier via le site http://www.korthalsaltes.com/ pour faire un [prisme octagonal](http://www.korthalsaltes.com/model.php?name_en=octagonal%20prism) dont chaque côté contient une image de l'animation.
-2. **Montage :** c'est à vous de jouer pour monter un assemblage assez rigoureux pour facilement faire tourner le moteur et soutenir le modèle d'images.
-
-Voici le montage complète :
-
-![Montage complet](https://github.com/fidele007/effet-trombinoscope/raw/master/montage.jpg)
-
+2. **Montage :** c'est à vous de jouer pour monter un assemblage assez rigoureux pour facilement faire tourner le moteur et soutenir le modèle d'images. Voici le montage complète : ![Montage complet](https://github.com/fidele007/effet-trombinoscope/raw/master/montage.jpg)
 3. **Arduino :** maintenant c'est la partie vraiment délicate dans ce projet. Voici le code que j'ai utilisé :
 
 ```{cpp}
