@@ -12,6 +12,8 @@ Pour le projet final de ANU (Art Numérique), j'ai tenté de simuler l'effet tro
 
 Voici le montage complète :
 
+![Montage complet](https://github.com/fidele007/effet-trombinoscope/raw/master/montage.jpg)
+
 3. **Arduino :** maintenant c'est la partie vraiment délicate dans ce projet. Voici le code que j'ai utilisé :
 
 ```{cpp}
